@@ -4,7 +4,7 @@ import {
   BsHouse, BsPersonLinesFill, BsDoorOpen, BsTextIndentLeft,
   BsBriefcase, BsCodeSquare, BsChat,
 } from 'react-icons/bs'
-import profile from '../assets/images/Profile.jpg'
+import profile from '../assets/images/Profile.png'
 
 
 const socials = [
